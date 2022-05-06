@@ -24,7 +24,7 @@ ___
 
 ___
 
-<img src="https://github.com/robsonamendonca/python-reportlib/blob/main/pdf_gerado.jpg?raw=true" width="1200">
+<img src="https://github.com/robsonamendonca/python-reportlab/blob/main/pdf_gerado.jpg?raw=true" width="1200">
 
 ## :information_source: Sobre
 
