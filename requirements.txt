@@ -1,0 +1,4 @@
+reportlab
+python-canvas
+python-fontbro
+paragraph
